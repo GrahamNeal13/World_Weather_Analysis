@@ -31,7 +31,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 93,Tautira,PF,82.42,overcast clouds,-17.7333,-149.15,Pension Oaoa
 94,Itamaraca,BR,81.28,broken clouds,-7.7478,-34.8256,Special K's Bed & Breakfast
 100,Rio Grande,BR,78.91,clear sky,-32.035,-52.0986,Hotel Atlântico Rio Grande
-101,Saint-Louis,SN,81.05,overcast clouds,16.3333,-15.0,
 106,Souillac,MU,80.98,scattered clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
 110,Bengkulu,ID,75.88,heavy intensity rain,-3.8004,102.2655,Grage Hotel Bengkulu
 112,Bandarbeyla,SO,75.76,overcast clouds,9.4942,50.8122,JABIR HOTEL
@@ -55,7 +54,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 174,Porto Novo,BJ,84.02,scattered clouds,6.4965,2.6036,Tour Eiffel Hotel Benin
 181,Dabola,GN,79.95,few clouds,10.75,-11.1167,Hotel Tinkisso
 188,Carnarvon,AU,77.07,broken clouds,-24.8667,113.6333,Hospitality Carnarvon
-189,Gamba,GA,77.47,overcast clouds,-2.65,10.0,
 198,Uribia,CO,82.53,clear sky,11.7139,-72.266,Hotel Uribia
 200,Sambava,MG,75.79,few clouds,-14.2667,50.1667,Melrose
 201,Palmerston,AU,80.58,light rain,-12.486,130.9833,Quest Palmerston - Serviced Apartments and Accommodation
@@ -73,7 +71,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 257,Rawson,AR,83.1,broken clouds,-43.3002,-65.1023,Hosteria Sampedro
 265,Kirakira,SB,81.48,light rain,-10.4544,161.9205,SanBiz Lodge
 266,Olinda,BR,80.33,broken clouds,-8.0089,-34.8553,Hotel Albergue de Olinda
-268,Adrar,MR,78.67,overcast clouds,20.5022,-10.0711,
 270,Yulara,AU,80.44,overcast clouds,-25.2406,130.9889,Desert Gardens Hotel - Ayers Rock Resort
 274,Koumac,NC,81.43,broken clouds,-20.5667,164.2833,Le Monitel
 277,Puerto Escondido,MX,84.9,clear sky,15.85,-97.0667,Aldea del Bazar Hotel and Spa
@@ -95,7 +92,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 347,Kota Belud,MY,75.06,overcast clouds,6.351,116.4305,Tang Dynasty Lodge Kota Belud
 352,Pandan,PH,77.04,scattered clouds,14.0453,124.1694,Bonifacio Lodge
 355,Samana,DO,87.76,few clouds,19.2056,-69.3369,The Bannister - Hotel & Yacht Club
-361,Thinadhoo,MV,81.23,overcast clouds,0.5333,72.9333,
 363,Matara,LK,77.2,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
 367,Takoradi,GH,80.04,few clouds,4.8845,-1.7554,Raybow International Hotel
 372,Buala,SB,81.32,light rain,-8.145,159.5921,Maringe Lagoon Lodge
@@ -116,7 +112,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 420,Carauari,BR,79.21,overcast clouds,-4.8828,-66.8958,Hotel Fellip
 426,Wukari,NG,81.34,overcast clouds,7.85,9.7833,Elimtop
 427,Cairns,AU,75.15,broken clouds,-16.9167,145.7667,Mantra Trilogy Cairns
-429,Werda,BW,75.69,broken clouds,-25.2667,23.2833,
 433,Mayumba,GA,77.54,broken clouds,-3.432,10.6554,LIKWALE LODGE
 442,Cayenne,GF,80.1,overcast clouds,4.9333,-52.3333,Hôtel Le Dronmi
 455,San Andres,CO,84.22,few clouds,12.5847,-81.7006,Hotel Arena Blanca
@@ -135,7 +130,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 520,Kibala,TD,77.56,scattered clouds,9.1104,18.3463,hotel safari
 525,Coruripe,BR,78.08,overcast clouds,-10.1256,-36.1756,Pousada e Hotel Litoral Sul
 528,Pemangkat,ID,76.46,overcast clouds,1.1667,108.9667,Ramah Kost KITA
-533,Boende,CD,75.18,few clouds,-0.2167,20.8667,
 537,Saint-Joseph,RE,75.58,scattered clouds,-21.3667,55.6167,"""Plantation Bed and Breakfast"
 538,Trenggalek,ID,75.83,overcast clouds,-8.05,111.7167,OYO 2966 Hotel Atriaz
 539,Itacare,BR,76.89,overcast clouds,-14.2775,-38.9967,Ecoporan Hotel Charme Spa & Eventos
@@ -152,7 +146,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 566,Nikki,BJ,76.24,few clouds,9.9401,3.2108,Hotel John
 569,Santa Maria,BR,79.9,few clouds,-29.6842,-53.8069,Hotel Morotin
 572,Santana Do Livramento,BR,85.98,clear sky,-30.8908,-55.5328,Hotel Emirates
-573,Tadine,NC,79.88,moderate rain,-21.55,167.8833,
 575,Banjar,ID,78.66,light rain,-8.19,114.9675,The Hamsa Resort
 577,Labuhan,ID,78.21,overcast clouds,-6.8844,112.2051,DoubleFAG
 581,Waingapu,ID,78.19,overcast clouds,-9.6567,120.2641,Pondok Wisata Elim
@@ -164,14 +157,12 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 629,Mackay,AU,75.69,light rain,-21.15,149.2,International Lodge Motel
 632,Kuah,MY,78.78,few clouds,6.3265,99.8432,Azio Hotel
 635,Xambioa,BR,75.27,scattered clouds,-6.4111,-48.5364,Pousada Do Sol
-637,Nioro,GM,83.91,overcast clouds,13.35,-15.75,
 639,Batticaloa,LK,77.45,few clouds,7.7102,81.6924,Grand Star Guest House
 644,Mabaruma,GY,78.55,scattered clouds,8.2,-59.7833,Monty Brooms Guest House
 645,Monrovia,LR,78.57,overcast clouds,6.3005,-10.7969,Sunset Inn
 647,Ahuimanu,US,80.31,few clouds,21.4447,-157.8378,Paradise Bay Resort
 653,Mattru,SL,77.63,overcast clouds,7.6244,-11.8332,"Mondkor Town, Bagbo Chiefdom, Bo District"
 654,General Pico,AR,86.85,clear sky,-35.6566,-63.7568,Euskadi Hotel
-655,Luba,GQ,76.89,overcast clouds,3.4568,8.5547,
 660,Saint-Georges,GD,83.88,few clouds,12.0564,-61.7485,Radisson Grenada Beach Resort
 663,Bubaque,GW,78.44,overcast clouds,11.2833,-15.8333,"Casa Dora, Bubaque"
 664,Sorong,ID,80.46,overcast clouds,-0.8833,131.25,Waigo Splash Hotel
